@@ -1,2 +1,2 @@
 # vue-cli-template
-vue-cli-template generator 
+vue create --preset azhgit/vue-cli-template {{ PROJECT_NAME }} 
